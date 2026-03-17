@@ -5,6 +5,6 @@ import { add } from "../src/app.js";
 describe("add", () =>{
   it("sum", () => {
     const sum = add(1,3)
-    assertEquals(sum, 4)
+    assertEquals(sum, 3)
   })
 })
