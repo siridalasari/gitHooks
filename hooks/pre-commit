@@ -1,3 +1,5 @@
 #!/bin/sh
 
 echo "changed the context"
+
+deno test 
